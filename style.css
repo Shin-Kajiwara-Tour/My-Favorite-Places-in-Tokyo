@@ -4,7 +4,7 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    text-size-adjust: 175%;
+    text-size-adjust: 200%;
 }
 
 .container {
@@ -23,7 +23,7 @@ body {
 h1 {
     color: #d29346;
     /*#e91e63;#c4863a;*/
-    font-size: 1.75em;
+    font-size: 2.0em;
 }
 
 ul {
@@ -50,7 +50,7 @@ footer {
     margin-top: 60px;
     font-style: italic;
     color: #888;
-    font-size: 0.9em;
+    font-size: 1em;
     text-align: center;
 }
 
