@@ -21,8 +21,9 @@ body {
 }
 
 h1 {
-    color: #e91e63;
-    font-size: 1.5em;
+    color: #d29346;
+    /*#e91e63;#c4863a;*/
+    font-size: 1.75em;
 }
 
 ul {
@@ -35,7 +36,8 @@ ul li {
 }
 
 a {
-    color: #03a9f4;
+    color: #2c3e50;
+    /* #03a9f4; */
     text-decoration: none;
     font-weight: bold;
 }
