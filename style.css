@@ -8,25 +8,27 @@ body {
 
 .container {
     margin: 0 auto;
-    /* padding: 20px; */
     text-align: center;
-    text-size-adjust: 300%;
 }
 
 .header-image {
     width: 100%;
-    /* border-radius: 10px; */
     margin-bottom: 20px;
 }
 
 h1 {
-    color: #d29346;
+    /* color: #d29346; */
     /*#e91e63;#c4863a;*/
-    font-size: 2.0em;
+    font-size: 3.0em;
 }
 
 h2 {
     padding-top: 20px;
+    font-size: 2.0em;
+}
+
+p {
+    font-size: 1.5em;
 }
 
 ul {
@@ -36,6 +38,7 @@ ul {
 
 ul li {
     margin: 10px 0;
+    font-size: 1.5em;
 }
 
 a {
